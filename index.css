@@ -1,0 +1,32 @@
+.title {
+    border: 5px solid;
+    background-color: lightsalmon;
+}
+
+.table_info{
+    margin-top: 5px;
+}
+
+/*Table Info*/
+
+.table_info, tr, th, td {
+    border: 2.5px solid;
+    border-collapse: collapse;
+    margin-top: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*Headings*/
+
+.table_info tr th {
+    background-color: lightblue;
+    
+}
+
+#headings, th {
+    font-style: bold;
+    text-transform: uppercase;
+}
